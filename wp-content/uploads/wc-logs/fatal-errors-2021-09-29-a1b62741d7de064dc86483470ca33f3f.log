@@ -1,0 +1,36 @@
+2021-09-29T10:02:06+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:02:07+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:02:56+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:03:12+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:04:06+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:04:57+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:05:13+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:06:07+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:06:58+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:07:14+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:08:08+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:08:59+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:09:13+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:09:15+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:10:14+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:10:15+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:11:00+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
+2021-09-29T10:11:15+00:00 CRITICAL Cannot redeclare ddcgroup_booking_calendar_function() (previously declared in C:\xampp\htdocs\Test\wp-content\plugins\booking-calendar\booking-calendar.php:15) in C:\xampp\htdocs\Test\wp-content\themes\twentytwentyone\functions.php on line 643
+
